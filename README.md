@@ -1,5 +1,5 @@
 # Hi there 👋, I'm Aryan Ghalot  
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2nd+Year+B.Tech+Student;Learning+AIML+%26+DSA+in+C++;Building+Projects+Everyday)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2nd+Year+B.Tech+Student;Learning+AIML+%26+DSA+in+(C++);Building+Projects+Everyday)
 
 
 ![Python](https://img.shields.io/badge/Python-Developer-blue?style=for-the-badge&logo=python)
