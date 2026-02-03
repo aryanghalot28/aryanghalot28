@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Rachit Rajput  
+# Hi there 👋, I'm Aryan Ghalot
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=2nd+Year+B.Tech+Student;Learning+AIML+%26+DSA+in+C%2B%2B;Building+Projects+Everyday)
 
 
