@@ -54,13 +54,13 @@
 
 ## 🤝 Connect With Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/abhinav-thakur2103/">
+  <a href="https://www.linkedin.com/in/aryan-ghalot-191922352/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="mailto:aryangahlot28@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white&style=for-the-badge" />
   </a>
-  <a href="https://leetcode.com/u/aryangahlot_28/">
+  <a href="https://https://leetcode.com/u/aryangalot_28/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
   </a>
   <a href="https://github.com/Abhinav-2103">
