@@ -63,7 +63,7 @@
   <a href="https://https://leetcode.com/u/aryangalot_28/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" />
   </a>
-  <a href="https://github.com/Abhinav-2103">
+  <a href="https://github.com/aryangalot_28">
     <img src="https://img.shields.io/badge/GitHub-000000?logo=github&logoColor=white&style=for-the-badge" />
   </a>
 </p>
